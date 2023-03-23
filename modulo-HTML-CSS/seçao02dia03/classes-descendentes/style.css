@@ -1,0 +1,27 @@
+ol {
+    background-color: yellow;
+}
+
+ol li.impar  {
+    color: red;
+}
+ol li.impar {
+    text-transform: capitalize;
+}
+h1, h2, h3 {
+    color: red;
+}
+li {
+    font-size: 20px;
+}
+ul, li.lp {
+    color: blue;
+}
+ul, li.java{
+    color: pink;
+}
+ul, li, a.aliados:hover{
+    font-weight: 800;
+    color: brown;
+    
+}
